@@ -86,7 +86,3 @@ Contributions are welcome! To contribute, please:
 - Submit a pull request explaining your changes.
 
 You can also open an issue for bug reports or new feature suggestions. Please be sure to document your code and follow best practices.
-
-## License
-
-This project is open source and released under the **MIT License**. See [LICENSE](LICENSE) for details. (The MIT License “permits reuse, modification, and distribution” of the software with attribution.)
